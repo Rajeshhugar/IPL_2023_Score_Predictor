@@ -4,6 +4,8 @@ import math
 import numpy as np
 import pickle
 import streamlit as st
+from warnings import filterwarnings
+filterwarnings('ignore')
 
 #SET PAGE WIDE
 st.set_page_config(page_title='IPL_Score_Predictor',layout="centered")
