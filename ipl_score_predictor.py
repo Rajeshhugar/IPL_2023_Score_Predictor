@@ -23,7 +23,7 @@ st.markdown(
          f"""
          <style>
          .stApp {{
-             background-image: url("https://4.bp.blogspot.com/-F6aZF5PMwBQ/Wrj5h204qxI/AAAAAAAABao/4QLn48RP3x0P8Ry0CcktxilJqRfv1IfcACLcBGAs/s1600/GURU%2BEDITZ%2Bbackground.jpg");
+             background-image: url("https://github.com/rajeshXT/IPL_2023_Score_Predictor/blob/main/chennai-super-kings-team-csk-squad-ipl-2021-ipl-t20-indian-3840x2160-5020.png");
              background-attachment: fixed;
              background-size: cover
          }}
